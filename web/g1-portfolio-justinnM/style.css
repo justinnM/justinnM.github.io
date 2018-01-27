@@ -1,0 +1,61 @@
+:root {
+  --page-bg-color: #005755;
+  --page-text-color: #32719C;
+}
+
+html, body {
+  background-color: var(#005755);
+  color: var(--page-text-color);
+  box-sizing: border-box;
+  height: 100%;
+  margin: 10px 0 0;
+  font-size: 100%;
+}
+
+.container > * {
+  display: flex;
+  background-color: lightblue;
+  border: 1px solid black;
+  align-items: center;
+  justify-content: center;
+  font-size: 2em;
+}
+
+.container {
+
+}
+
+nav {
+
+}
+
+img {
+
+  width: 100%;
+  height: 100%;
+
+}
+
+banner {
+
+}
+
+about {
+
+}
+
+#experience {
+
+}
+
+#projects {
+
+}
+
+#contact {
+
+}
+
+footer {
+
+}
